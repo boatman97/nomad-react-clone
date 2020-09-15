@@ -1,10 +1,10 @@
 ## 작업 요약
 
-![](../../react/slide1.png)
+![](slide1.png)
 
-![](../../react/slide2.png)
+![](slide2.png)
 
-![](../../react/slide3.png)
+![](slide3.png)
 
 
 
