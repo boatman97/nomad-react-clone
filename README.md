@@ -1,10 +1,10 @@
 ## 작업 요약
 
-![](slide1.png)
+![](slide1.PNG)
 
-![](slide2.png)
+![](slide2.PNG)
 
-![](slide3.png)
+![](slide3.PNG)
 
 
 
