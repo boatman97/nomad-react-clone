@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/nomad-react-clone/static/css/main.12e6be58.chunk.css",
+    "main.js": "/nomad-react-clone/static/js/main.b156496d.chunk.js",
+    "main.js.map": "/nomad-react-clone/static/js/main.b156496d.chunk.js.map",
+    "runtime-main.js": "/nomad-react-clone/static/js/runtime-main.f4fbc298.js",
+    "runtime-main.js.map": "/nomad-react-clone/static/js/runtime-main.f4fbc298.js.map",
+    "static/js/2.df258bfe.chunk.js": "/nomad-react-clone/static/js/2.df258bfe.chunk.js",
+    "static/js/2.df258bfe.chunk.js.map": "/nomad-react-clone/static/js/2.df258bfe.chunk.js.map",
+    "index.html": "/nomad-react-clone/index.html",
+    "precache-manifest.7aadfc9c393c212cc3ffccf2f0aa11ec.js": "/nomad-react-clone/precache-manifest.7aadfc9c393c212cc3ffccf2f0aa11ec.js",
+    "service-worker.js": "/nomad-react-clone/service-worker.js",
+    "static/css/main.12e6be58.chunk.css.map": "/nomad-react-clone/static/css/main.12e6be58.chunk.css.map",
+    "static/js/2.df258bfe.chunk.js.LICENSE.txt": "/nomad-react-clone/static/js/2.df258bfe.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/nomad-react-clone/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f4fbc298.js",
+    "static/js/2.df258bfe.chunk.js",
+    "static/css/main.12e6be58.chunk.css",
+    "static/js/main.b156496d.chunk.js"
+  ]
+}
