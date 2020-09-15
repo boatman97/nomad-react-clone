@@ -42,6 +42,7 @@
 - `map`
   - return이 내제되어 있음
 
+ 
   ```javascript
   map((paramters) => { return })
   // no map
@@ -62,8 +63,9 @@
      medium_cover_image={movie.medium_cover_image}
      genres = {movie.genres}
      synopsis = {movie.synopsis} />
- })
-  ```
+   })
+   ```
+
 
 ## Ajax
 - `fetch`
